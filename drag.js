@@ -3,6 +3,8 @@
  */
 function drag(){
     var obj = document.getElementById('drag');
+    var disX = 0;
+
     obj.onmousedown = function(){
 
     }
